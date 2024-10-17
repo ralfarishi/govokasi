@@ -1,0 +1,17 @@
+# pages
+service-details.html
+starter-page.html
+
+# directories
+forms
+assets/vendor/php-email-form
+
+# images
+assets/img/clients/client-*.png
+assets/img/testimonials/testimonials-5.jpg
+assets/img/about-company-*.jpg
+assets/img/features-*.jpg
+assets/img/hero-bg-light.webp
+assets/img/hero-services-img.webp
+assets/img/services.jpg
+assets/img/tabs-*.jpg
